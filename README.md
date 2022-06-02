@@ -5,8 +5,11 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 29 Anos
 
 > ## Contatos:
 > ✉️ angelo.suptec@hotmail.com
+> 
 > 📱 (21) 99888-8309 ([WhatsApp][zap])
+> 
 >  Facebook: [angelo.suptec][face]
+>  
 >  Instagram: [angelo.suptec][insta]
 
 [zap]: <https://wa.me/+5521998888309>
