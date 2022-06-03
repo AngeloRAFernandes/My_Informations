@@ -1,6 +1,6 @@
 #### Apresentação:
-Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 29 Anos, e sou muito interessado em tudo que há sobre tecnologia.
-- Comecei aos 8 anos desmontando e remontando a torre e a tela do computador da minha mãe para limpar ela;
+Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 29 Anos.
+- Comecei aos 8 anos desmontando e remontando a torre e a tela do computador da minha mãe para limpar, a partir dai, fui crescendo e sempre me fascinando pelo mundo da tecnologia;
 - Como a maioria de nós, tive alguns trancos e barrancos pelo caminho, mas hoje estou estudando mais do que nunca, correndo atrás do tempo perdido;
 - Aprendo rápido tudo o que for necessário para desempenhar melhor as minhas funções, sempre buscando otimizar o trabalho;
 - Atualmente estou cursando Analise e Desenvolvimento de Software pela UNICESUMAR com previsão de término para dezembro de 2022;
@@ -12,6 +12,8 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 29 Anos, e sou mu
 
         -> Hel-Desk (Suporte técnico e aulas com as novas tecnologias implantadas para os funcionários);
         
+        -> Ativos (Manutenção, Limpeza e configuração das maquinas);
+        
         -> Redes (Firewall, Switch gerenciável e Cabeamento estruturado);
         
         -> Servidores fisicos (Windows Server AD, DNS e Storage);
@@ -20,7 +22,7 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 29 Anos, e sou mu
         
         -> Telecomunicações (Centrais PABX e IP);
         
-        -> Segurança local (Alarme e porteiro eletronico);
+        -> Segurança local (Alarme e porteiro eletrônico);
         
         -> Contratos de empresas terceirizadas e prestadores de serviços para a TI.
 
