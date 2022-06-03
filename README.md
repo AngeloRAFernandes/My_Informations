@@ -12,15 +12,17 @@ Olá! 👋 Meu nome é Angelo Rodrigo Almeida Fernandes, tenho 29 Anos, e sou mu
 
         -> Hel-Desk (Suporte técnico e aulas com as novas tecnologias implantadas para os funcionários);
         
-        -> Redes (Firewall, Switch gerenciável, Cabeamento estruturado);
+        -> Redes (Firewall, Switch gerenciável e Cabeamento estruturado);
         
-        -> Servidores fisicos (AD, Storage);
+        -> Servidores fisicos (Windows Server AD, DNS e Storage);
         
         -> Servidores em nuvem (Microsoft Azure AD, Sharepoint e Exchange);
         
         -> Telecomunicações (Centrais PABX e IP);
         
-        -> Segurança local (Alarme e porteiro eletronico).
+        -> Segurança local (Alarme e porteiro eletronico);
+        
+        -> Contratos de empresas terceirizadas e prestadores de serviços para a TI.
 
 ##### Minhas formações atuais são:
 -
